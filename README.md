@@ -1,7 +1,7 @@
 ## Ola eu sou Elias D Reis Lima, Analista de Rede
 <div >
   <a href="https://github.com/eliasdosreis">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eliasdosreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=eliasdosreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdosreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
