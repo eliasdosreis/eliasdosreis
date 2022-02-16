@@ -2,7 +2,8 @@
 
 <div >
   <p>
-    Estudo na Comunidade Cisco Lucas Palma apredendo CCNA 👉🏽️ 
+    Trabalho com Assistente de Suporte <br>
+    Estudando na Comunidade Cisco Lucas Palma apredendo CCNA 👉🏽️ 
     
   </p>
   <a href="https://github.com/eliasdosreis">
