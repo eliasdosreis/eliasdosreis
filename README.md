@@ -1,7 +1,10 @@
 ## Oi Tudo bem? Eu sou o Elias D Reis lima 😃️
-Estudo Desenvolvimento Web na Trybe e compartilho meu aprendizado no meu canal no YouTube 👉🏽️ 
-Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+
 <div >
+  <p>
+    Estudo na Comunidade Cisco Lucas Palma apredendo CCNA 👉🏽️ 
+    
+  </p>
   <a href="https://github.com/eliasdosreis">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=eliasdosreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdosreis&layout=compact&langs_count=7&theme=dracula"/>
