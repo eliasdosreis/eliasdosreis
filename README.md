@@ -1,4 +1,6 @@
-## Ola eu sou Elias D Reis Lima, Analista de Rede
+## Oi Tudo bem? Eu sou o Elias D Reis lima 😃️
+Estudo Desenvolvimento Web na Trybe e compartilho meu aprendizado no meu canal no YouTube 👉🏽️ 
+Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
 <div >
   <a href="https://github.com/eliasdosreis">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=eliasdosreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
