@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,git" />
 </div>
 
 <br/>
