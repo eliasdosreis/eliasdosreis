@@ -22,12 +22,12 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCkpSktjPsBNnHzctL9k6dJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="https://www.youtube.com/channel/UCkpSktjPsBNnHzctL9k6dJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a  align="center" href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,git" />
+    <img align="center" src="https://skillicons.dev/icons?i=github,python" /><br>
+    <img  align="center" src="https://skillicons.dev/icons?i=html,css,git" />
 </div>
 
 <br/>
