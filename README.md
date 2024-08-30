@@ -2,8 +2,8 @@
 
 <div >
   <p>
-    Trabalho com Analista de Suporte <br>
-    Estudando na Comunidade Cisco Lucas Palma apredendo CCNA e Cloud 👉🏽️ 
+    Analyst Support and DevOps <br>
+    Estudando na Comunidade Cisco Lucas Palma apredendo CCNA e AWS 👉🏽️ 
     
   </p>
   <a href="https://github.com/eliasdosreis">
