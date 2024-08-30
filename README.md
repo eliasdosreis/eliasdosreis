@@ -1,9 +1,9 @@
-## Oi Tudo bem? Eu sou o Elias D Reis lima 😃️
+## Hello, how are you? I'm Elias D Reis Lima 😃️
 
 <div >
   <p>
     Analyst Support and DevOps <br>
-    Estudando na Comunidade Cisco Lucas Palma apredendo CCNA e AWS 👉🏽️ 
+    Currently studying in the Cisco Lucas Palma Community, learning CCNA and AWSS 👉🏽️ 
     
   </p>
   <a href="https://github.com/eliasdosreis">
