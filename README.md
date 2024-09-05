@@ -19,10 +19,10 @@
   <a  align="center" href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <div align="lleft">
-    <img  src="https://skillicons.dev/icons?i=azure,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=github,python,unity,cs" /><br>
-    <img  src="https://skillicons.dev/icons?i=html,css,git" /><br>
-    <img  src="https://skillicons.dev/icons?i=blender,photoshop" />
+    <img  src="https://skillicons.dev/icons?i=azure,aws , html, css" /><br>
+    <!--  <img src="https://skillicons.dev/icons?i=github,python,unity,cs" /><br> -->
+    <!--  <img  src="https://skillicons.dev/icons?i=html,css,git" /><br> -->
+    <!--  <img  src="https://skillicons.dev/icons?i=blender,photoshop" /> -->
 </div>
 
 <br/>
