@@ -16,7 +16,7 @@
 <div align="center"> 
   <a align="center" href="https://www.youtube.com/channel/UCkpSktjPsBNnHzctL9k6dJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a  align="center" href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <br><br><br>
   <div align="left">
     <img  src="https://skillicons.dev/icons?i=azure,aws,gcp,html,css,nextjs,linux,docker,jenkins,nginx" /><br>
     <!--  <img src="https://skillicons.dev/icons?i=github,python,unity,cs" /><br> -->
