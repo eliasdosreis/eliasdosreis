@@ -1,6 +1,6 @@
 ## Hello, how are you? I'm Elias D Reis Lima 😃️
 
-<div >
+<div align="center">
   <p>
     Analyst Support and DevOps <br>
     Currently studying in the Cisco Lucas Palma Community, learning CCNA and AWSS 👉🏽️ 
@@ -19,7 +19,7 @@
   <a  align="center" href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <div align="lleft">
-    <img  src="https://skillicons.dev/icons?i=azure,aws,gcp,html,css" /><br>
+    <img  src="https://skillicons.dev/icons?i=azure,aws,gcp,html,css,nextjs" /><br>
     <!--  <img src="https://skillicons.dev/icons?i=github,python,unity,cs" /><br> -->
     <!--  <img  src="https://skillicons.dev/icons?i=html,css,git" /><br> -->
     <!--  <img  src="https://skillicons.dev/icons?i=blender,photoshop" /> -->
