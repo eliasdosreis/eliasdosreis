@@ -41,7 +41,7 @@
     <!-- Link para o repositório com o jogo da cobrinha melhorado -->
     <a href="https://github.com/eliasdosreis/eliasdosreis" target="_blank">
       <img alt="Minha cobrinha de contribuições"
-        src="[https://raw.githubusercontent.com/eliasdosreis/eliasdosreis/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/eliasdosreis/eliasdosreis/refs/heads/main/github-contribution-grid-snake.svg)" />
+        src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg" />
     </a>
     <br/><br/>
   </div>
