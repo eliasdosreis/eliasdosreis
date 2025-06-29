@@ -7,8 +7,6 @@
 </div>
 
 ####  👩‍ 💻Sou Analista de Suporte e Infraestrutura
-####  📚 Estou cursando Engenharia da Computação 
-####  🖍 Estudando CCNA e AWS / DevOps
 ####  💻 E-mail elias_dos_reis@hotmail.com
 <br>
 
