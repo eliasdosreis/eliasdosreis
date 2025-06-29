@@ -3,6 +3,7 @@
 <div align="center">
   <a href = "elias_dos_reis@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliasdosreislima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://yatharthchauhan.me](http://rmerces-site01.s3-website-us-east-1.amazonaws.com/)"><img alt="My Website" title="My Website" src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
 </div>
 
 ####  👩‍ 💻Sou Analista de Suporte e Infraestrutura
