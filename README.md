@@ -10,7 +10,6 @@
 ####  📚 Estou cursando Engenharia da Computação 
 ####  🖍 Estudando CCNA e AWS / DevOps
 ####  💻 E-mail elias_dos_reis@hotmail.com
-####  💻 Portfólio: [Eliasdosreis](  http://rmerces-site01.s3-website-us-east-1.amazonaws.com/  )
 <br>
 
 
