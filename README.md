@@ -6,7 +6,7 @@
   <a href="http://rmerces-site01.s3-website-us-east-1.amazonaws.com"><img alt="My Website" title="My Website" src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
 </div>
 
-####  👩‍ 💻Sou Analista de Suporte e Infraestrutura
+####  👩‍ 💻Sou DevOps e Infraestrutura
 ####  💻 E-mail elias_dos_reis@hotmail.com
 <br>
 
